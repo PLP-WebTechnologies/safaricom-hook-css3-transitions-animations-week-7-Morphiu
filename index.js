@@ -9,7 +9,7 @@ function calculatePerimeter(length, width) {
     container.innerHTML = `<p> The perimeter of your rectangle is ${roomPerimeter} cm.`;
 }
 
-// calculatePerimeter()
+calculatePerimeter()
 
 // Function 2
 let name1 = 'Engineer';
